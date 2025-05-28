@@ -13,3 +13,8 @@ OA Prep
    2.2 Deletion (First/Last/Middle)<br>
    2.3 Search<br>
    2.4 Reverse<br>
+3. Arrays<br>
+   3.1 Kadane's Algorithm<br>
+4. C++ STL<br>
+   4.1 Priority Queue<br>
+   4.2 Vector<br>
