@@ -15,6 +15,9 @@ OA Prep
    2.4 Reverse<br>
 3. Arrays<br>
    3.1 Kadane's Algorithm<br>
+   3.2 Unique Paths Problem + DP<br>
+   3.3 Sorting 2D Array<br>
+   3.4 Matrix Operations<br>
 4. C++ STL<br>
    4.1 Priority Queue<br>
    4.2 Vector<br>
